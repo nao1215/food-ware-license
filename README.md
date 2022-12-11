@@ -4,7 +4,7 @@ Below Markdown text says all about this license:
 ```
 # THE FOOD-WARE LICENSE
 
-Copyright <YEAR> <COPYRIGHT HOLDER>
+Copyright (c) <YEAR> <COPYRIGHT HOLDER>
 
 As long as you retain this notice you can do whatever you want with this stuff.
 If you have given this software (including repositories) a GitHub Star, or shared
@@ -37,3 +37,16 @@ If you would like to send comments such as "find a typo" or "request for additio
 
 # LICENSE
 This project is licensed under the terms of "THE FOOD-WARE LICENSE".
+```
+# THE FOOD-WARE LICENSE
+
+Copyright (c) 2022 CHIKAMATSU Naohiro
+
+As long as you retain this notice you can do whatever you want with this stuff.
+If you have given this software (including repositories) a GitHub Star, or shared
+this software on a social networking site, you must send food to the author.
+
+Food means sushi🍣, meat🥩, beer🍻, etc.
+The food-ware license allows for financial support via services such as GitHub Sponsors
+and Buy Me a Coffee in lieu of food.
+```
