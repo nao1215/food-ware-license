@@ -1,6 +1,6 @@
 # THE FOOD-WARE LICENSE
 
-Copyright \<YEAR\> \<COPYRIGHT HOLDER\>
+Copyright (c) \<YEAR\> \<COPYRIGHT HOLDER\>
 
 As long as you retain this notice you can do whatever you want with this stuff.
 If you have given this software (including repositories) a GitHub Star, or shared
