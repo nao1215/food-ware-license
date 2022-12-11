@@ -16,7 +16,7 @@ and Buy Me a Coffee in lieu of food.
 ```
 
 # LICENSE badge
-You can add this badge to your README.md:
+You can add this badge to your README.md: [![FOOD-WARE LICENSE](https://img.shields.io/badge/license-%F0%9F%8D%A3%F0%9F%8D%BB%F0%9F%A5%A9-blue)](https://github.com/nao1215/food-ware-license)  
 ```
 [![FOOD-WARE LICENSE](https://img.shields.io/badge/license-%F0%9F%8D%A3%F0%9F%8D%BB%F0%9F%A5%A9-blue)](https://github.com/nao1215/food-ware-license)
 ```
